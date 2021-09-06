@@ -1,0 +1,12 @@
+﻿<div bg='round-rect-panel' bg-color='#BEBEBE'>
+	<vertical>
+		<text text='' id='songNameLabel' color='#FF175A' font-size='10' font-align='Center' all-uppercase='true'/>
+		<text text='' id='songAuthorNameLabel' color='#FF175A' font-size='10' font-align='Center' all-uppercase='true'/>
+		<text text='Difficulty: ' id='beatmapDifficultyNameLabel' font-size='5' font-align='Center' all-uppercase='true'/>
+		<horizontal>
+			<button text='Menu' on-click='menuButton'/>
+			<button text='Restart' on-click='restartButton'/>
+			<button text='Continue' on-click='continueButton'/>
+		</horizontal>
+	</vertical>
+</div>

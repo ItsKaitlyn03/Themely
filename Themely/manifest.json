@@ -1,0 +1,15 @@
+﻿{
+  "$schema": "https://raw.githubusercontent.com/bsmg/BSIPA-MetadataFileSchema/master/Schema.json",
+  "id": "Themely",
+  "name": "Themely",
+  "author": "Aika",
+  "version": "1.0.0",
+  "description": "A theming engine for Beat Saber!",
+  "gameVersion": "1.17.0",
+  "dependsOn": {
+    "BSIPA": "^4.2.0",
+    "BeatSaberMarkupLanguage": "^1.5.5",
+    "SiraUtil": "^2.5.8"
+  },
+  "features": []
+}
